@@ -27,7 +27,7 @@ function sayHiToGrandma(string) {
     return upperCaseResponse
   }
   
-  if (string === 'I love u, Grandma.') {
+  if (string === 'I love you, Grandma.') {
     return loveResponse
   }
   
